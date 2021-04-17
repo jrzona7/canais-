@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:0 tvg-id="AyE.mx" group-title="CANAIS FILMES/SERIES",A&E FULL HD
 http://login.companyiptv.com.br:8080/Carlao/q7wfogmk/46557
 #EXTINF:0 tvg-id="AyE.mx" group-title="CANAIS FILMES/SERIES",A&E HD
